@@ -1,4 +1,4 @@
-# Day 04 — Linux: man command (Manual pages)
+# Day 02 — Linux: man command (Manual pages)
 
 **Platform:** KillerCoda  
 **Date:** April 2026  
