@@ -1,4 +1,4 @@
-# Day 08 — Linux: absolute vs relative paths
+# Day 03 — Linux: absolute vs relative paths
 
 **Platform:** KillerCoda  
 **Date:** April 2026  
