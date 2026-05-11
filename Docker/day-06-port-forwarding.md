@@ -1,4 +1,4 @@
-# Day 12 — Docker: port forwarding and publishing ports
+# Day 06 Docker: port forwarding and publishing ports
 
 **Platform:** KillerCoda  
 **Date:** April 2026  
