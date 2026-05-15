@@ -1,4 +1,4 @@
-# Day 04 — Kubernetes: scaling a deployment up
+# Day 02 — Kubernetes: scaling a deployment up
 
 **Platform:** KillerCoda  
 **Date:** April 2026  
